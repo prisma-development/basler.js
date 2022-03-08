@@ -1,0 +1,25 @@
+{
+  "name": "cmdhandler.js",
+  "version": "0.1.1",
+  "description": "Command handler for discord.js , easy command handling and editing.",
+  "main": "./package/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "command handler",
+    "command handling",
+    "easy make command",
+    "easy make discord bot",
+    "discord",
+    "discord.js",
+    "discord command"
+  ],
+  "author": "MrTurK or Jeosty",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

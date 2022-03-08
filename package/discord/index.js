@@ -29,11 +29,11 @@ class handler {
           .replace("./", "/"));
         if (!command.name || !command.code) {
           console.log(
-            `Failed Loaded command from ${this.options.folder}/${folder}/${file} with cmdhandler.js`
+            `Failed Loaded command from ${this.options.folder}/${folder}/${file} with Basler`
           );
         } else {
           console.log(
-            `Waking up '${command.name}' from ${this.options.folder}/${folder}/${file} with cmdhandler.js`
+            `Waking up '${command.name}' from ${this.options.folder}/${folder}/${file} with Basler`
           );
         }
         bot.commands.set(command.name, command);

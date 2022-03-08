@@ -1,5 +1,5 @@
 {
-  "name": "cmdhandler.js",
+  "name": "basler.js",
   "version": "0.1.1",
   "description": "Command handler for discord.js , easy command handling and editing.",
   "main": "./package/index.js",

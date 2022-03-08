@@ -15,7 +15,7 @@
     "discord.js",
     "discord command"
   ],
-  "author": "MrTurK or Jeosty",
+  "author": "Phoenix.rat",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.3",
